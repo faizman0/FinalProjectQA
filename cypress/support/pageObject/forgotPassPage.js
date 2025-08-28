@@ -2,6 +2,7 @@ class forgotPassPage {
     visit(){
         cy.visit('web/index.php/auth/requestPasswordResetCode')
     }
+    
     clickForgotPass(){
         cy.contains('Forgot your password?').click();
     }
