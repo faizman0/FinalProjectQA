@@ -1,0 +1,22 @@
+{
+  "name": "finalprojectqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizman0/FinalProjectQA.git"
+  },
+  "author": "Faiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizman0/FinalProjectQA/issues"
+  },
+  "homepage": "https://github.com/faizman0/FinalProjectQA#readme",
+  "devDependencies": {
+    "cypress": "^15.0.0"
+  }
+}
